@@ -18,3 +18,5 @@ public class PrimeNumber{
       System.out.println(num + " is not a prime number.");
   }
 }
+
+//Commiting for testing modifying the changes and check version control history
